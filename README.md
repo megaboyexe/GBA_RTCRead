@@ -13,8 +13,8 @@ The DS port is still available here: [https://sourceforge.net/projects/rtcread-d
 - Enables write new date and time to the RTC data
 - The GBA version must be written to a GBA flashcart, and works with cartridge swap
 - The GBA version can also edit the RTC found in the Everdrive GBA cartridge
-- The DS version is a homebrew for R4 carts that access the Slot-2 carts
+- The DS version is a homebrew for R4 carts that access the GBA carts through Slot-2 insertion
 
 ## Known Issues
 
-- Both the GBA and DS original releas versions have a rollover bug in February of a leap year, where it rollsover at Feb 09 instead of Feb 29.
+- Both the GBA and DS original release versions have a rollover bug in February of a leap year, where it rollsover at Feb 09 instead of Feb 29.
